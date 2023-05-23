@@ -1,4 +1,4 @@
-# Advanced_Programming_Optimization_Algorithms
+# Advanced Programming Optimization Algorithms
 This repository contains the coding assignements from the course in Advanced Programming and Optimization Algorithms. The assignements consisted of 24% of the final grading.
 ## Topics
 The assignements were covered 4, and covered only some of the theoretical topics. Here follows their description:
